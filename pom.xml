@@ -8,6 +8,7 @@
 		<version>3.0.2</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
+<!-- changes by daniel from DevUsa-->
 	<groupId>com.BikkadIT</groupId>
 	<artifactId>NewSchool</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
