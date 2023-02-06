@@ -8,6 +8,9 @@
 		<version>3.0.2</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
+
+<!-- changes by daniel from DevUsa-->
+
 <!-- Changes by umesh from DevInd -->
 	<groupId>com.BikkadIT</groupId>
 	<artifactId>NewSchool</artifactId>
